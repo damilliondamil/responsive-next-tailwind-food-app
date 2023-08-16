@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 
 const Hero = () => {
   return (
